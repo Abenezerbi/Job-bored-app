@@ -6,7 +6,6 @@ A full-stack web application for posting and browsing job listings, built with R
 [![Frontend](https://img.shields.io/badge/Frontend-React-blue)]([your-frontend-repo-url])
 [![Backend](https://img.shields.io/badge/Backend-Node.js-green)]([your-backend-repo-url])
 
-![Job Board Screenshot]([screenshot-url])
 
 ## Features
 - **Job Listings**: Browse jobs with salary in USD and EUR using real-time exchange rates
@@ -19,9 +18,6 @@ A full-stack web application for posting and browsing job listings, built with R
 - **Frontend**: React, Bootstrap, Axios
 - **Backend**: Node.js, Express, PostgreSQL
 - **APIs**: ExchangeRate-API (currency rates)
-
-## Database Schema
-![Database Diagram]([db-diagram-url])
 
 ```sql
 -- employers table
