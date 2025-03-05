@@ -2,11 +2,6 @@
 
 A full-stack web application for posting and browsing job listings, built with React, Node.js, and PostgreSQL.
 
-[![Demo Video](https://img.shields.io/badge/Demo-Video-blue)]([your-demo-video-url]) 
-[![Frontend](https://img.shields.io/badge/Frontend-React-blue)]([your-frontend-repo-url])
-[![Backend](https://img.shields.io/badge/Backend-Node.js-green)]([your-backend-repo-url])
-
-
 ## Features
 - **Job Listings**: Browse jobs with salary in USD and EUR using real-time exchange rates
 - **Post Jobs**: Employers can submit new job listings
